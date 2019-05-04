@@ -8,7 +8,7 @@
 #////                |_|   \__,_| \_/\_/ \__,_|_|\_\__,_|                   ////
 #///////////////////////////////////////////////////////////////////////////////
 #///////////////////////////////////////////////////////////////////////////////
-echo Selamat datang Bro, Siapa nick Bro? #tulisan keluar
+echo Selamat datang Bro, Siapa Nama Bro? #tulisan keluar
 read nick #membaca yang ditulis
 echo "       ) _     _ "
 sleep 0.03
